@@ -1,2 +1,2 @@
-# algorithmStudy
-My Algorithm Study Workspace
+# MyStudy
+My Study Workspace
