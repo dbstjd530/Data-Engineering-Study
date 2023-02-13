@@ -1,4 +1,4 @@
-# 빅데이터 처리 with Hadoop ecosystem
+# Hadoop ecosystem
 ## 1. Apache Hadoop
 - [Hadoop 실습](./01-hadoop/README.md)
 
